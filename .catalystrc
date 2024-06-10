@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "20661000000020806",
+      "name": "CatalystDemoApp",
+      "domain": {
+        "id": "10081140346",
+        "name": "catalystdemoapp-852431481.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "852431481",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

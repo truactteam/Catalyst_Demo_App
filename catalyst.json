@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "catalyst_demo_app_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "catalytdemoapp",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
